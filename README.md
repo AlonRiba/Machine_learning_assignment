@@ -19,4 +19,4 @@ Configuration selection uses cross-validation on training data. The notebook doc
 
 ## Presentation
 
-Video link: pending recording and upload.
+[Watch the presentation video](https://www.youtube.com/watch?v=XwONl1UjiY8)
